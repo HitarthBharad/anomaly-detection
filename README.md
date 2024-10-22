@@ -47,8 +47,8 @@ Modify the generate_data_stream function to change the behavior of the simulated
 
 ## Dependencies
 
-- NumPy: A fundamental package for numerical computations in Python.
-- Matplotlib: A comprehensive library for creating static, animated, and interactive visualizations in Python.
+- NumPy
+- Matplotlib
 
 ## Acknowledgments
 
